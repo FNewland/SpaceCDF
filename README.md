@@ -1,3 +1,9 @@
+> **This project has moved.** SpaceCDF is now part of **C2O — from Concept to Orbit**, together with the
+> spacecraft simulator and mission control: **https://github.com/FNewland/C2O** (folder `design/`).
+> Development, the course books and the open textbook continue there, with full history. This repository is no longer updated.
+>
+> *Ce projet a déménagé : SpaceCDF fait désormais partie de C2O — du Concept à l'Orbite.*
+
 # SpaceCDF — AI-Assisted Concurrent Design Facility for Space Missions
 
 SpaceCDF is an open-source web tool for collaborative spacecraft mission design, following the System-V model from NASA SEH and ECSS standards. A team walks in with a problem and walks out with a complete, buildable CubeSat design.
